@@ -1,1 +1,1 @@
-run = "python IKT/random_szam_kitalalo.py"
+run = "python random_szam_kitalalo.py"
