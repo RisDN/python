@@ -1,12 +1,10 @@
 import os
 import random
-clear = lambda: os.system('cls')
 botnyert = 0
 usernyert = 0
 
 print("\n", "Kő | Papír | Olló", "\n")
 def szamitas(bote, be):
-    clear()
     global botnyert
     global usernyert
     print("")
