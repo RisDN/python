@@ -1,4 +1,3 @@
-import os
 import random
 botnyert = 0
 usernyert = 0
