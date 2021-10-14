@@ -1,7 +1,5 @@
 from time import sleep
-
 gyorsasag = 0.07
-
 while True:
     for i in range(0, 11, +1):
         print(i * '*')
@@ -10,4 +8,3 @@ while True:
     for a in range(11, 0, -1):
         print(a * '*')
         sleep(gyorsasag)
-    
