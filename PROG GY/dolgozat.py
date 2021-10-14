@@ -1,3 +1,4 @@
+# 2021.10.13
 csoport = input('Melyik csoportot szeretnéd megnézni?')
 
 if csoport == 'a' or csoport == 'A':
