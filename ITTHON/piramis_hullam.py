@@ -1,5 +1,5 @@
 from time import sleep
-gyorsasag = 0.07
+gyorsasag = 0.09
 while True:
     for i in range(0, 11, +1):
         print(i * '*')
