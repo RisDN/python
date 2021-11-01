@@ -8,7 +8,7 @@ def nyeremenySzamitas(megadott_szam):
 	else: return ''
 
 def start():
-	talalatok_szama = input('Kérlek add meg találataid számát: ')
+	talalatok_szama = input('Kérlek add meeeeeg találataid számát: ')
 	try:
 		talalatok_szama = int(talalatok_szama)
 		print('Az ön nyereménye ' + nyeremenySzamitas(talalatok_szama) + ' Ft')
